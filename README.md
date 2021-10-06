@@ -1,3 +1,3 @@
-![Hunting-Night](https://user-images.githubusercontent.com/88904139/136265517-b5d5f11b-2c40-484a-b472-f4c4079d8ec0.png)
+![Hunting-Night](https://user-images.githubusercontent.com/88904139/136265845-37ce5764-8ee4-443b-8f74-82514027516f.png)
 # Hunting-Night
 This is my first experimental project, a minecraft hacked client. Hunting-Night (the skid client)
