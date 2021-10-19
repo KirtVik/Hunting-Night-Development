@@ -1,6 +1,5 @@
 <h1 align="center">Hunting-Night</h1>
-<p align="center">This is my first experimental project, a minecraft hacked client. Hunting-Night (the skid client)
-</p>
+<p align="center">This is our first experimental project, a hacked minecraft client. Hunting- Night (skid client)</p>
 
 <br>
 
