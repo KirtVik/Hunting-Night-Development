@@ -1,4 +1,4 @@
-<h1 align="center"># Hunting-Night
+# Hunting-Night
 
 This is my first experimental project, a minecraft hacked client. Hunting-Night (the skid client)
 
