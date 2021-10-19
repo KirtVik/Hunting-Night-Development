@@ -3,6 +3,7 @@
 
 <br>
 
+<p align="center">
 # Instal
 1) .jar file in mods
 
