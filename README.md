@@ -10,6 +10,11 @@
 
 # Author
 - **NightDesert**
+- **KirtVik**
+
+<br>
+
+# Credits
 - [Github](https://github.com/NightDesertOrig/Hunting-Night-Development)
 - [Discord](https://discord.gg/YDZjrjkJeb)
 - [YouTube](https://www.youtube.com/channel/UCoCW_nOWMpUtwmUPFzkjgpQ)
