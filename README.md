@@ -9,7 +9,7 @@
 
 <br>
 
-# Author
+# Authors
 - **NightDesert**
 - **KirtVik**
 
