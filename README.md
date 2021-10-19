@@ -4,7 +4,7 @@
 <br>
 
 
-<p align="center"># Instal
+# Instal
 1) .jar file in mods
 
 <br>
