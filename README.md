@@ -3,9 +3,8 @@
 
 <br>
 
-<p align="center">
 
-# Instal
+<p align="center"># Instal</p>
 1) .jar file in mods
 
 <br>
